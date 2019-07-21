@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Telefrek.OpenRTB</PackageId>
+    <PackageDescription>This package contains an implementation of the OpenRTB spec.</PackageDescription>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Telefrek.Core" Version="0.0.2" />
+    <PackageReference Include="Telefrek.Core.Json" Version="0.0.2" />
+  </ItemGroup>
+</Project>
