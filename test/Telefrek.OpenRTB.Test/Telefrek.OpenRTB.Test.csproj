@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Telefrek.Core.Testing" Version="0.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Telefrek.OpenRTB\Telefrek.OpenRTB.csproj" />
+  </ItemGroup>
+</Project>
